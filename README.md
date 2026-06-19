@@ -174,7 +174,7 @@ This is the layer that makes the automation auditable — if something doesn't s
 
 ---
 
-## Result: EC2 Instance Started Automatically
+## Step 5: Result: EC2 Instance Started Automatically
 
 This is the actual proof that the system works end to end. The instance we manually stopped at 7:50 AM has, by the scheduled trigger time, transitioned from `stopped` to `running` — with no one touching the console:
 
