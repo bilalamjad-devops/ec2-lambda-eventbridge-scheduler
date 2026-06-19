@@ -98,11 +98,20 @@
 ---
 ---
 
+### CloudWatch
+
+<img width="1600" height="900" alt="24- eventbridge cloudwatch" src="https://github.com/user-attachments/assets/a9ab96b1-63d4-4e99-81b9-8e31d44e8bcc" />
 
 
+<img width="1600" height="900" alt="25- eventbridge cloudwatch" src="https://github.com/user-attachments/assets/e320abaa-53e3-418c-8b0a-173b6aa70cd6" />
 
 
+<img width="1600" height="900" alt="26- eventbridge cloudwatch" src="https://github.com/user-attachments/assets/cb2a319b-4a9c-4a6e-a583-aaf687f66118" />
 
+
+---
+---
+---
 
 
 
