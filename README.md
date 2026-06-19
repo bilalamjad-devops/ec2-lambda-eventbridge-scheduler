@@ -1,6 +1,8 @@
 # Stop Paying for Idle EC2 Instances Using Terraform and AWS Lambda
 
 
+
+## 1. terraform init, plan 
 <img width="1600" height="900" alt="aws lambda 4" src="https://github.com/user-attachments/assets/83768fed-4fa5-43ba-b348-651ea1da6d79" />
 
 
@@ -17,6 +19,14 @@
 ---
 
 ## Create EC2 for testing and tag it
+
+- tag:
+Name: 
+Key: AutoSchedule  Value: True
+- keypair: precessed without a key pair (Not recommended)
+- create security group
+click Launch
+
 
 <img width="1600" height="900" alt="1- eventbridge " src="https://github.com/user-attachments/assets/ed8123b5-6e68-4040-a804-1165d7fc6822" />
 
@@ -39,7 +49,7 @@
 ---
 ---
 
-## Terraform apply
+## 4. Terraform apply
 
 <img width="1600" height="900" alt="9b- eventbridge cloudwatch" src="https://github.com/user-attachments/assets/096f2f0c-29de-4063-a2de-30ffb6d0ea4d" />
 
