@@ -1,4 +1,4 @@
-# Stop Paying for Idle EC2 Instances Using Terraform and AWS Lambda
+# Stop Paying for Idle EC2 Instances Using Terraform, EventBridge Scheduler and AWS Lambda
 
 ## The Business Problem
 
