@@ -7,6 +7,8 @@
 ---
 ---
 
+## Create EC2 for testing and tag it
+
 <img width="1600" height="900" alt="1- eventbridge " src="https://github.com/user-attachments/assets/ed8123b5-6e68-4040-a804-1165d7fc6822" />
 
 
@@ -27,6 +29,8 @@
 ---
 ---
 ---
+
+## Terraform apply
 
 <img width="1600" height="900" alt="9b- eventbridge cloudwatch" src="https://github.com/user-attachments/assets/096f2f0c-29de-4063-a2de-30ffb6d0ea4d" />
 
