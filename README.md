@@ -40,6 +40,9 @@
 ---
 ---
 ---
+
+### EventBridge Schedular
+
 <img width="1600" height="900" alt="15- eventbridge lambda" src="https://github.com/user-attachments/assets/dc794fa0-a11b-4acb-aa51-bd12572a03e7" />
 
 
