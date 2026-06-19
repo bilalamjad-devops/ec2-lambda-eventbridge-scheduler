@@ -22,7 +22,6 @@ By the end of this walkthrough, we'll have:
 - A stop schedule that runs every weekday at 5:00 PM PKT
 - Verified, working automation — captured below in screenshots of the actual run, including the EC2 instance flipping from stopped to running on schedule
 
-> If you want the full Terraform and Python code with line-by-line explanations, I covered that in detail in [Part 1 of this series](#) — this post focuses on actually deploying it and watching it work end to end.
 
 ---
 
