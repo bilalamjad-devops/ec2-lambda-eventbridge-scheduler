@@ -1,5 +1,8 @@
 # Stop Paying for Idle EC2 Instances Using Terraform, EventBridge Scheduler, and AWS Lambda
 
+<img width="1983" height="793" alt="ChatGPT Image Jun 19, 2026, 07_48_32 PM" src="https://github.com/user-attachments/assets/f0779ca2-1e2e-429c-9f47-5e411a6ce89b" />
+
+
 ## The Business Problem
 
 Most companies run more than just production servers on AWS. There's almost always a parallel set of EC2 instances for development, testing, and staging — environments that engineers only touch during working hours. The problem is that these instances are usually left running around the clock, even though nobody is using them outside 8 AM–5 PM, Monday to Friday.
