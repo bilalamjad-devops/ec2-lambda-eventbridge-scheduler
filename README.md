@@ -223,4 +223,3 @@ The pattern here generalizes well beyond EC2 — the same tag-and-trigger approa
 
 ---
 
-*Code and full Terraform/Python source for this project are available on [GitHub](#) — link your repo here.*
