@@ -202,9 +202,16 @@ terraform destroy
 
 <img width="1600" height="900" alt="terraform destroy command output" src="https://github.com/user-attachments/assets/4665c3b3-fb24-479b-ac92-0785710092b5" />
 
-<img width="1600" height="900" alt="terraform destroy completion confirmation" src="https://github.com/user-attachments/assets/7065b1a9-bad8-4493-b7bc-02d3634b3922" />
 
 Type `yes` to confirm. Terraform only manages what it created — the manually launched test EC2 instance still needs to be terminated separately from the EC2 console.
+
+---
+
+Step 7: Delete the Test EC2 Instance 
+
+
+<img width="1600" height="900" alt="terraform destroy completion confirmation" src="https://github.com/user-attachments/assets/7065b1a9-bad8-4493-b7bc-02d3634b3922" />
+
 
 ---
 
