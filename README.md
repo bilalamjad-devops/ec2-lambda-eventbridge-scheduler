@@ -34,6 +34,33 @@ By the end of this walkthrough, we'll have:
 
 ---
 
+### Steps: 
+
+- Step 1: Initialize and Plan the Infrastructure
+
+- Step 2: Create a Test EC2 Instance and Tag It
+
+Step 3: Set the Instance State to Match the Schedule
+
+
+Step 4: Deploy with Terraform Apply
+
+
+  Verifying the EventBridge Schedules
+  
+  Verifying the Lambda Functions
+
+  Verifying Execution in CloudWatch
+
+Step 5: Result: EC2 Instance Started Automatically
+
+Step 6: Clean Up — Terraform Destroy
+
+Step 7: Delete the Test EC2 Instance
+
+
+---
+
 ## Step 1: Initialize and Plan the Infrastructure
 
 Before touching anything in the AWS Console, we run the standard Terraform workflow from the project folder. `terraform init` downloads the AWS provider, and `terraform plan` shows exactly what's about to be created — two Lambda functions, two EventBridge rules, the IAM role, and the permissions linking them — without changing anything yet.
