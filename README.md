@@ -207,7 +207,7 @@ Type `yes` to confirm. Terraform only manages what it created — the manually l
 
 ---
 
-Step 7: Delete the Test EC2 Instance 
+## Step 7: Delete the Test EC2 Instance 
 
 
 <img width="1600" height="900" alt="terraform destroy completion confirmation" src="https://github.com/user-attachments/assets/7065b1a9-bad8-4493-b7bc-02d3634b3922" />
