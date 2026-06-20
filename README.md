@@ -18,6 +18,7 @@ It's also a great project for showing real AWS and Infrastructure-as-Code skills
 - , event-driven architecture
 - IAM permissions
 - and serverless compute
+
 — all wired together with Terraform instead of manual console clicks.
 
 ## What We'll Build in This Lab
