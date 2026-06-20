@@ -13,7 +13,12 @@ That mismatch is pure waste. An instance that's only needed for 9 hours a day is
 
 This is one of the most common cost-optimization requests in real DevOps work, and it's also one of the easiest to get wrong manually. Asking engineers to remember to stop instances at the end of the day doesn't scale — people forget, environments multiply, and "I'll stop it later" becomes the default. The fix isn't a reminder, it's automation: a system that starts and stops resources on a schedule without anyone having to think about it.
 
-It's also a great project for showing real AWS and Infrastructure-as-Code skills, because it touches several pieces that show up constantly in production environments: tagging strategy, event-driven architecture, IAM permissions, and serverless compute — all wired together with Terraform instead of manual console clicks.
+It's also a great project for showing real AWS and Infrastructure-as-Code skills, because it touches several pieces that show up constantly in production environments:
+- tagging strategy
+- , event-driven architecture
+- IAM permissions
+- and serverless compute
+— all wired together with Terraform instead of manual console clicks.
 
 ## What We'll Build in This Lab
 
